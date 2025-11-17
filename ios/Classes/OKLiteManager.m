@@ -1,6 +1,6 @@
 //
 //  RNEventManager.m
-//  OneKeyWallet
+//  OneTokenWallet
 //
 //  Created by linleiqin on 2021/11/8.
 //

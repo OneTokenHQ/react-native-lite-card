@@ -1,6 +1,6 @@
 //
 //  OKTools.h
-//  OneKeyWallet
+//  OneTokenWallet
 //
 //  Created by linleiqin on 2022/3/1.
 //

@@ -1,6 +1,6 @@
 //
 //  NFCConfig.h
-//  OneKeyWallet
+//  OneTokenWallet
 //
 //  Created by linleiqin on 2022/2/22.
 //
